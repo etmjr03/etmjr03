@@ -1,7 +1,22 @@
-<div>
-<h1>Olá, meu nome é Edilson!</h1>
-<h2>Sou desenvolvedor de Software full-stack e estudante de Sistemas de Informação.👋</h2>
-<br>
+<h1 align="left">Olá! 👋 meu nome é Edilson!</h1>
+
+###
+
+<h2 align="left">Sou desenvolvedor full stack e estudante de Sistemas de Informação.</h2>
+
+###
+
+<h2 align="left">Minhas metas</h2>
+
+###
+
+<p align="left">Atualmente estou...
+<br>📚 Estudando JavaScript e seus frameworks.
+<br>📜 Estudando e buscando uma certificação AWS.
+<br>🎲 Desenvolvendo mini jogos com JS.</p>
+
+###
+
 <p>Utilizo meu github para uso profissional e também para portfólio, aqui vocês encontram alguns de meus projetos.</p>
 </div>
 
