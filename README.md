@@ -1,8 +1,4 @@
-<h1 align="left">Olá! 👋 meu nome é Edilson!</h1>
-
-###
-
-<h2 align="left">Sou desenvolvedor full stack e estudante de Sistemas de Informação.</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD8E6&size=28&left=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Edilson;Sou+dev+Front-end+e+estudante+de+Sistemas+de+Informação.)](https://git.io/typing-svg)
 
 ###
 
