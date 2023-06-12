@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=28&left=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Edilson;Sou+dev+Front-end.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=28&left=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Edilson;Sou+dev+Back-end.)](https://git.io/typing-svg)
 
 ###
 
@@ -7,9 +7,9 @@
 ###
 
 <p align="left">Atualmente estou...
-<br>📚 Estudando JavaScript e seus frameworks.
-<br>📜 Estudando e buscando uma certificação AWS.
-<br>🎲 Desenvolvendo mini jogos com JS.</p>
+<br>📚 Estudando sobre PHP.
+<br>📜 Trabalhando com PHP e MYSQL.
+<br>🎲 Jogando nos tempos livres</p>
 
 ###
 
