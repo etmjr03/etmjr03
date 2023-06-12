@@ -9,7 +9,7 @@
 <p align="left">Atualmente estou...
 <br>📚 Estudando sobre PHP.
 <br>📜 Trabalhando com PHP e MYSQL.
-<br>🎲 Jogando nos tempos livres</p>
+<br>🎮 Jogando nos tempos livres</p>
 
 ###
 
